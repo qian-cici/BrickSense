@@ -78,7 +78,9 @@ The housing data used in this project is based on cleaned and preprocessed data 
 Only cleaned and anonymized versions are used here.
 
 🔒 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
+
+
 💡 Future Enhancements
 Precise address-level price prediction with fuzzy matching
 
