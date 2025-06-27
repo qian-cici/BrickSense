@@ -1,5 +1,5 @@
 # BrickSense
-For the fintech assignment
+A Streamlit-based web app that predicts Dutch house prices using real transaction data. Built for a FinTech assignment.
 # 🏠 BrickSense: House Price Estimator
 
 BrickSense is a lightweight, interactive MVP that enables users to estimate housing prices in the Netherlands. Users can input property features such as location, build type, and size, and instantly receive an estimated price. The application is built using Python and Streamlit, and uses a Random Forest model trained on cleaned Funda data.
